@@ -1,0 +1,7 @@
+Country,Degree Centrality,Closeness Centrality,Betweenness Centrality
+China,1.2000000000000002,0.8333333333333334,0.55
+France,0.6000000000000001,0.7142857142857143,0.2
+Germany,0.4,0.625,0.0
+Canada,0.4,0.625,0.1
+Russia,0.4,0.5555555555555556,0.05
+India,0.2,0.5,0.0
